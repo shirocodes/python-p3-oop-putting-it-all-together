@@ -5,6 +5,7 @@ from shoe import Shoe
 import io
 import sys
 
+
 class TestShoe:
     '''Shoe in shoe.py'''
 
